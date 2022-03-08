@@ -1,2 +1,2 @@
 # portfolio-usingflexbox
-This porfolio project is similar my previous porfolio project but in it I've used Flexbox
+This porfolio project is similar my previous porfolio project but  I've used Flexbox in it
