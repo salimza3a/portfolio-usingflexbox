@@ -1,0 +1,44 @@
+
+label,input, textarea {
+display: block;    
+width: 100%;
+font-family: Arial, Helvetica, sans-serif;
+color: #777777;
+padding-top: 15px;
+}
+
+input {
+    border: 1px solid #dddddd;
+    padding: 10px;
+    font-size: 14px;
+    color: #000000;
+
+}
+label{
+    margin-bottom: 10px;
+}
+label,textarea{
+    font-size: 18px;
+
+}
+textarea{
+    padding: 0 10px 0 10px;
+    width: 588px;
+    height: 200px;
+    border: 1px solid #dddddd;
+
+}
+
+button{
+    margin-top: 20px;
+    padding: 10px 30px 10px 30px;
+    width: 116px;
+    height: 40px;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    cursor: pointer;
+    border: none;
+    text-align: center;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
